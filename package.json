@@ -1,0 +1,22 @@
+{
+  "name": "emitter-sniffer",
+  "version": "0.0.1",
+  "description": "hook to the emit function of an event emitter to print all fired events activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kessler/emitter-sniffer"
+  },
+  "keywords": [
+    "events",
+    "eventemitter"
+  ],
+  "author": "Yaniv Kessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kessler/emitter-sniffer/issues"
+  }
+}
